@@ -1,0 +1,10 @@
+name: MOTD
+description: Use the new JSON structure for the server MOTD.
+version: 1.0.0
+
+author: viral32111
+website: https://viral32111.com
+
+main: com.viral32111.motd.MOTD
+api-version: 1.17
+prefix: MOTD

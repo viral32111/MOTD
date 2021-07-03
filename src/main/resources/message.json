@@ -1,0 +1,15 @@
+{
+	"color": "#13f6ab",
+	"text": "A ",
+	"extra": [
+		{
+			"text": "Minecraft",
+			"color": "blue",
+			"bold": true
+		},
+		{
+			"text": "\nServer",
+			"color": "#ff00ff"
+		}
+	]
+}
